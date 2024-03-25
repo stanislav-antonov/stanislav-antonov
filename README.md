@@ -14,11 +14,11 @@ In general, lately I've been mainly engaged in full-stack development, building 
 
 ## My Projects
 
-Sensory Ninja(https://sensory.ninja) - Fully integrated modern IoT platform.
+Sensory Ninja (https://sensory.ninja) - fully integrated modern IoT platform.
 
 ## Get in Touch
 
-- Email: [stanislav.dev@gmail.com](mailto:stanislav.dev@gmail.com)
+[stanislav.dev@gmail.com](mailto:stanislav.dev@gmail.com) ✉️
 
 Feel free to connect with me for new opportunities, collaborations, or discussions. 
 
