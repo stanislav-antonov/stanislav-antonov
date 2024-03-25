@@ -1,22 +1,22 @@
-### Geetings, I'm Stanislav🖖
+## Geetings, I'm Stanislav🖖
 
 - I've been into software engineering professionally for quite a while 💾
 - With additional expertise, I occasionally delve in hardware design and electronics 🤖
 
 In general, lately I've been mainly engaged in full-stack development, building various kinds of distributed client-server applications.
 
-## My Favorite Tools
+### My Favorite Tools
 
 - Programming Languages: Java, C/C++, Perl, JavaScript/TypeScript
 - Frameworks: Spring Boot, React
 - Data management systems: MySQL, PostgreSQL
 - Infrastructure: Linux, Docker, Nginx, RabbitMQ
 
-## My Projects
+### My Projects
 
 Sensory Ninja (https://sensory.ninja) - fully integrated modern IoT platform.
 
-## Get in Touch
+### Get in Touch
 
 [stanislav.dev@gmail.com](mailto:stanislav.dev@gmail.com) ✉️
 
