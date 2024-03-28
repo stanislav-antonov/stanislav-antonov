@@ -7,10 +7,10 @@ In general, lately I've been mainly engaged in full-stack development, building 
 
 ### My Favorite Tools
 
-- Programming Languages: Java, C/C++, Perl, JavaScript/TypeScript
+- Programming Languages: Java, C/C++, JavaScript/TypeScript, Perl
 - Frameworks: Spring Boot, React
 - Data management systems: MySQL, PostgreSQL
-- Infrastructure: Linux, Docker, Nginx, RabbitMQ
+- Infrastructure: Linux, Docker, Nginx, RabbitMQ, Jenkins
 
 ### My Projects
 
