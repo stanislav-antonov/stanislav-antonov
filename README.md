@@ -12,10 +12,6 @@ In general, lately I've been mainly engaged in full-stack development, building 
 - Data management systems: MySQL, PostgreSQL
 - Infrastructure: Linux, Docker, Nginx, RabbitMQ, Jenkins
 
-### My Projects
-
-Sensory Ninja (https://sensory.ninja) - fully integrated modern IoT platform.
-
 ### Get in Touch
 
 [stanislav.dev@gmail.com](mailto:stanislav.dev@gmail.com) ✉️
