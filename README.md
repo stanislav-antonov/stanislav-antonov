@@ -1,4 +1,4 @@
-## Greetings, I'm Stanislav🖖
+## Greetings, I'm Stanislav
 
 - I've been into software engineering professionally for quite a while 💾
 - With additional expertise, I occasionally delve in hardware design and electronics 🤖
